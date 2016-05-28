@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Sample Link Post"
-excerpt: "Example and code for using link posts."
+title: "about me"
+excerpt: "."
 tags: [sample post, link post]
-link: http://mademistakes.com  
+link: http:www.facebook.com  
 share: true
 ---
 
