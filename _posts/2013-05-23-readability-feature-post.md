@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Post with Large Feature Image and Text"
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+title: "lecture of information system"
+excerpt: "Terwujudnya Prodi  sistem Informasi sebagai prodi yang menyelenggarakan pendidikan integrasi ilmu sistem informasi dan Islam, penelitian, dan pengabdian kepada masyarakat, yang berkualitas pada tahun 2018."
 tags: [sample post, readability, test]
 comments: true
 image:
-  feature: sample-image-4.jpg
+  feature: sistem.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
