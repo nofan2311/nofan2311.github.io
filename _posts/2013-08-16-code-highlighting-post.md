@@ -1,8 +1,8 @@
 ---
 layout: post
 title: lecture of information system
-excerpt:
-<a href="http://uin-suska.ac.id/fakultas/fakultas-sains-dan-teknologi/jurusan-sistem-informasi/">openlink
+excerpt:"openlink"
+<a href="http://uin-suska.ac.id/fakultas/fakultas-sains-dan-teknologi/jurusan-sistem-informasi/">
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
